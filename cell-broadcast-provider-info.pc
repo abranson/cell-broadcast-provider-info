@@ -1,0 +1,7 @@
+prefix=/usr
+datadir=${prefix}/share
+channelsdir=${datadir}/cell-broadcast-provider-info
+
+Name: cell-broadcast-provider-info
+Description: Cell broadcast emergency alert channel database
+Version: 20260511
